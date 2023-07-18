@@ -1,3 +1,3 @@
 # face-recognition
 
-This uses Deepface for analzing, verifying and finding similarities in faces
+This uses Deepface for analyzing, verifying and finding similarities in faces
